@@ -1,0 +1,11 @@
+D:\C# Fundamentals NBU\Arrays\03.ZigZag\bin\Debug\netcoreapp3.1\03.ZigZag.exe
+D:\C# Fundamentals NBU\Arrays\03.ZigZag\bin\Debug\netcoreapp3.1\03.ZigZag.deps.json
+D:\C# Fundamentals NBU\Arrays\03.ZigZag\bin\Debug\netcoreapp3.1\03.ZigZag.runtimeconfig.json
+D:\C# Fundamentals NBU\Arrays\03.ZigZag\bin\Debug\netcoreapp3.1\03.ZigZag.runtimeconfig.dev.json
+D:\C# Fundamentals NBU\Arrays\03.ZigZag\bin\Debug\netcoreapp3.1\03.ZigZag.dll
+D:\C# Fundamentals NBU\Arrays\03.ZigZag\bin\Debug\netcoreapp3.1\03.ZigZag.pdb
+D:\C# Fundamentals NBU\Arrays\03.ZigZag\obj\Debug\netcoreapp3.1\03.ZigZag.csprojAssemblyReference.cache
+D:\C# Fundamentals NBU\Arrays\03.ZigZag\obj\Debug\netcoreapp3.1\03.ZigZag.AssemblyInfoInputs.cache
+D:\C# Fundamentals NBU\Arrays\03.ZigZag\obj\Debug\netcoreapp3.1\03.ZigZag.AssemblyInfo.cs
+D:\C# Fundamentals NBU\Arrays\03.ZigZag\obj\Debug\netcoreapp3.1\03.ZigZag.dll
+D:\C# Fundamentals NBU\Arrays\03.ZigZag\obj\Debug\netcoreapp3.1\03.ZigZag.pdb
