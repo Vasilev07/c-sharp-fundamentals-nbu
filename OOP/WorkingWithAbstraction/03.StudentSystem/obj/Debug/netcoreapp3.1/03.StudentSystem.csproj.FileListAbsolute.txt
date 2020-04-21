@@ -1,0 +1,13 @@
+D:\C-Sharp-Fundamentals-NBU\OOP\WorkingWithAbstraction\03.StudentSystem\bin\Debug\netcoreapp3.1\03.StudentSystem.exe
+D:\C-Sharp-Fundamentals-NBU\OOP\WorkingWithAbstraction\03.StudentSystem\bin\Debug\netcoreapp3.1\03.StudentSystem.deps.json
+D:\C-Sharp-Fundamentals-NBU\OOP\WorkingWithAbstraction\03.StudentSystem\bin\Debug\netcoreapp3.1\03.StudentSystem.runtimeconfig.json
+D:\C-Sharp-Fundamentals-NBU\OOP\WorkingWithAbstraction\03.StudentSystem\bin\Debug\netcoreapp3.1\03.StudentSystem.runtimeconfig.dev.json
+D:\C-Sharp-Fundamentals-NBU\OOP\WorkingWithAbstraction\03.StudentSystem\bin\Debug\netcoreapp3.1\03.StudentSystem.dll
+D:\C-Sharp-Fundamentals-NBU\OOP\WorkingWithAbstraction\03.StudentSystem\bin\Debug\netcoreapp3.1\03.StudentSystem.pdb
+D:\C-Sharp-Fundamentals-NBU\OOP\WorkingWithAbstraction\03.StudentSystem\obj\Debug\netcoreapp3.1\03.StudentSystem.csprojAssemblyReference.cache
+D:\C-Sharp-Fundamentals-NBU\OOP\WorkingWithAbstraction\03.StudentSystem\obj\Debug\netcoreapp3.1\03.StudentSystem.csproj.CoreCompileInputs.cache
+D:\C-Sharp-Fundamentals-NBU\OOP\WorkingWithAbstraction\03.StudentSystem\obj\Debug\netcoreapp3.1\03.StudentSystem.AssemblyInfoInputs.cache
+D:\C-Sharp-Fundamentals-NBU\OOP\WorkingWithAbstraction\03.StudentSystem\obj\Debug\netcoreapp3.1\03.StudentSystem.AssemblyInfo.cs
+D:\C-Sharp-Fundamentals-NBU\OOP\WorkingWithAbstraction\03.StudentSystem\obj\Debug\netcoreapp3.1\03.StudentSystem.dll
+D:\C-Sharp-Fundamentals-NBU\OOP\WorkingWithAbstraction\03.StudentSystem\obj\Debug\netcoreapp3.1\03.StudentSystem.pdb
+D:\C-Sharp-Fundamentals-NBU\OOP\WorkingWithAbstraction\03.StudentSystem\obj\Debug\netcoreapp3.1\03.StudentSystem.genruntimeconfig.cache

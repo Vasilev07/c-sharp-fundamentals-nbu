@@ -1,0 +1,13 @@
+D:\C-Sharp-Fundamentals-NBU\ConditionalStatements\01.SwapIfGrater\bin\Debug\netcoreapp3.1\01.SwapIfGrater.exe
+D:\C-Sharp-Fundamentals-NBU\ConditionalStatements\01.SwapIfGrater\bin\Debug\netcoreapp3.1\01.SwapIfGrater.deps.json
+D:\C-Sharp-Fundamentals-NBU\ConditionalStatements\01.SwapIfGrater\bin\Debug\netcoreapp3.1\01.SwapIfGrater.runtimeconfig.json
+D:\C-Sharp-Fundamentals-NBU\ConditionalStatements\01.SwapIfGrater\bin\Debug\netcoreapp3.1\01.SwapIfGrater.runtimeconfig.dev.json
+D:\C-Sharp-Fundamentals-NBU\ConditionalStatements\01.SwapIfGrater\bin\Debug\netcoreapp3.1\01.SwapIfGrater.dll
+D:\C-Sharp-Fundamentals-NBU\ConditionalStatements\01.SwapIfGrater\bin\Debug\netcoreapp3.1\01.SwapIfGrater.pdb
+D:\C-Sharp-Fundamentals-NBU\ConditionalStatements\01.SwapIfGrater\obj\Debug\netcoreapp3.1\01.SwapIfGrater.csprojAssemblyReference.cache
+D:\C-Sharp-Fundamentals-NBU\ConditionalStatements\01.SwapIfGrater\obj\Debug\netcoreapp3.1\01.SwapIfGrater.csproj.CoreCompileInputs.cache
+D:\C-Sharp-Fundamentals-NBU\ConditionalStatements\01.SwapIfGrater\obj\Debug\netcoreapp3.1\01.SwapIfGrater.AssemblyInfoInputs.cache
+D:\C-Sharp-Fundamentals-NBU\ConditionalStatements\01.SwapIfGrater\obj\Debug\netcoreapp3.1\01.SwapIfGrater.AssemblyInfo.cs
+D:\C-Sharp-Fundamentals-NBU\ConditionalStatements\01.SwapIfGrater\obj\Debug\netcoreapp3.1\01.SwapIfGrater.dll
+D:\C-Sharp-Fundamentals-NBU\ConditionalStatements\01.SwapIfGrater\obj\Debug\netcoreapp3.1\01.SwapIfGrater.pdb
+D:\C-Sharp-Fundamentals-NBU\ConditionalStatements\01.SwapIfGrater\obj\Debug\netcoreapp3.1\01.SwapIfGrater.genruntimeconfig.cache

@@ -17,7 +17,8 @@ namespace _03.ZigZag
                 {
                     firstArrayToPrint.SetValue(int.Parse(numbers[0]), i);
                     secondArrayToPrint.SetValue(int.Parse(numbers[1]), i);
-                } else
+                }
+                else
                 {
                     firstArrayToPrint.SetValue(int.Parse(numbers[1]), i);
                     secondArrayToPrint.SetValue(int.Parse(numbers[0]), i);

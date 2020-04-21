@@ -1,0 +1,13 @@
+D:\C-Sharp-Fundamentals-NBU\OOP\WorkingWithAbstraction\01.RombusOfStars\bin\Debug\netcoreapp3.1\01.RombusOfStars.exe
+D:\C-Sharp-Fundamentals-NBU\OOP\WorkingWithAbstraction\01.RombusOfStars\bin\Debug\netcoreapp3.1\01.RombusOfStars.deps.json
+D:\C-Sharp-Fundamentals-NBU\OOP\WorkingWithAbstraction\01.RombusOfStars\bin\Debug\netcoreapp3.1\01.RombusOfStars.runtimeconfig.json
+D:\C-Sharp-Fundamentals-NBU\OOP\WorkingWithAbstraction\01.RombusOfStars\bin\Debug\netcoreapp3.1\01.RombusOfStars.runtimeconfig.dev.json
+D:\C-Sharp-Fundamentals-NBU\OOP\WorkingWithAbstraction\01.RombusOfStars\bin\Debug\netcoreapp3.1\01.RombusOfStars.dll
+D:\C-Sharp-Fundamentals-NBU\OOP\WorkingWithAbstraction\01.RombusOfStars\bin\Debug\netcoreapp3.1\01.RombusOfStars.pdb
+D:\C-Sharp-Fundamentals-NBU\OOP\WorkingWithAbstraction\01.RombusOfStars\obj\Debug\netcoreapp3.1\01.RombusOfStars.csprojAssemblyReference.cache
+D:\C-Sharp-Fundamentals-NBU\OOP\WorkingWithAbstraction\01.RombusOfStars\obj\Debug\netcoreapp3.1\01.RombusOfStars.csproj.CoreCompileInputs.cache
+D:\C-Sharp-Fundamentals-NBU\OOP\WorkingWithAbstraction\01.RombusOfStars\obj\Debug\netcoreapp3.1\01.RombusOfStars.AssemblyInfoInputs.cache
+D:\C-Sharp-Fundamentals-NBU\OOP\WorkingWithAbstraction\01.RombusOfStars\obj\Debug\netcoreapp3.1\01.RombusOfStars.AssemblyInfo.cs
+D:\C-Sharp-Fundamentals-NBU\OOP\WorkingWithAbstraction\01.RombusOfStars\obj\Debug\netcoreapp3.1\01.RombusOfStars.dll
+D:\C-Sharp-Fundamentals-NBU\OOP\WorkingWithAbstraction\01.RombusOfStars\obj\Debug\netcoreapp3.1\01.RombusOfStars.pdb
+D:\C-Sharp-Fundamentals-NBU\OOP\WorkingWithAbstraction\01.RombusOfStars\obj\Debug\netcoreapp3.1\01.RombusOfStars.genruntimeconfig.cache

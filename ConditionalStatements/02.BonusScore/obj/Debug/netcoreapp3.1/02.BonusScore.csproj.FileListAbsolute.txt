@@ -1,0 +1,13 @@
+D:\C-Sharp-Fundamentals-NBU\ConditionalStatements\02.BonusScore\bin\Debug\netcoreapp3.1\02.BonusScore.exe
+D:\C-Sharp-Fundamentals-NBU\ConditionalStatements\02.BonusScore\bin\Debug\netcoreapp3.1\02.BonusScore.deps.json
+D:\C-Sharp-Fundamentals-NBU\ConditionalStatements\02.BonusScore\bin\Debug\netcoreapp3.1\02.BonusScore.runtimeconfig.json
+D:\C-Sharp-Fundamentals-NBU\ConditionalStatements\02.BonusScore\bin\Debug\netcoreapp3.1\02.BonusScore.runtimeconfig.dev.json
+D:\C-Sharp-Fundamentals-NBU\ConditionalStatements\02.BonusScore\bin\Debug\netcoreapp3.1\02.BonusScore.dll
+D:\C-Sharp-Fundamentals-NBU\ConditionalStatements\02.BonusScore\bin\Debug\netcoreapp3.1\02.BonusScore.pdb
+D:\C-Sharp-Fundamentals-NBU\ConditionalStatements\02.BonusScore\obj\Debug\netcoreapp3.1\02.BonusScore.csprojAssemblyReference.cache
+D:\C-Sharp-Fundamentals-NBU\ConditionalStatements\02.BonusScore\obj\Debug\netcoreapp3.1\02.BonusScore.csproj.CoreCompileInputs.cache
+D:\C-Sharp-Fundamentals-NBU\ConditionalStatements\02.BonusScore\obj\Debug\netcoreapp3.1\02.BonusScore.AssemblyInfoInputs.cache
+D:\C-Sharp-Fundamentals-NBU\ConditionalStatements\02.BonusScore\obj\Debug\netcoreapp3.1\02.BonusScore.AssemblyInfo.cs
+D:\C-Sharp-Fundamentals-NBU\ConditionalStatements\02.BonusScore\obj\Debug\netcoreapp3.1\02.BonusScore.dll
+D:\C-Sharp-Fundamentals-NBU\ConditionalStatements\02.BonusScore\obj\Debug\netcoreapp3.1\02.BonusScore.pdb
+D:\C-Sharp-Fundamentals-NBU\ConditionalStatements\02.BonusScore\obj\Debug\netcoreapp3.1\02.BonusScore.genruntimeconfig.cache

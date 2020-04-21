@@ -1,0 +1,13 @@
+D:\C-Sharp-Fundamentals-NBU\Arrays\07.MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.exe
+D:\C-Sharp-Fundamentals-NBU\Arrays\07.MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.deps.json
+D:\C-Sharp-Fundamentals-NBU\Arrays\07.MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.runtimeconfig.json
+D:\C-Sharp-Fundamentals-NBU\Arrays\07.MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.runtimeconfig.dev.json
+D:\C-Sharp-Fundamentals-NBU\Arrays\07.MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.dll
+D:\C-Sharp-Fundamentals-NBU\Arrays\07.MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.pdb
+D:\C-Sharp-Fundamentals-NBU\Arrays\07.MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.csprojAssemblyReference.cache
+D:\C-Sharp-Fundamentals-NBU\Arrays\07.MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+D:\C-Sharp-Fundamentals-NBU\Arrays\07.MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.AssemblyInfoInputs.cache
+D:\C-Sharp-Fundamentals-NBU\Arrays\07.MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.AssemblyInfo.cs
+D:\C-Sharp-Fundamentals-NBU\Arrays\07.MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.dll
+D:\C-Sharp-Fundamentals-NBU\Arrays\07.MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.pdb
+D:\C-Sharp-Fundamentals-NBU\Arrays\07.MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.genruntimeconfig.cache

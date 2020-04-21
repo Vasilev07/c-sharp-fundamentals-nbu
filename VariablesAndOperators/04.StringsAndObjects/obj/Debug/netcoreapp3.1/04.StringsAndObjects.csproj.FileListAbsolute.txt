@@ -1,0 +1,13 @@
+D:\C-Sharp-Fundamentals-NBU\VariablesAndOperators\04.StringsAndObjects\bin\Debug\netcoreapp3.1\04.StringsAndObjects.exe
+D:\C-Sharp-Fundamentals-NBU\VariablesAndOperators\04.StringsAndObjects\bin\Debug\netcoreapp3.1\04.StringsAndObjects.deps.json
+D:\C-Sharp-Fundamentals-NBU\VariablesAndOperators\04.StringsAndObjects\bin\Debug\netcoreapp3.1\04.StringsAndObjects.runtimeconfig.json
+D:\C-Sharp-Fundamentals-NBU\VariablesAndOperators\04.StringsAndObjects\bin\Debug\netcoreapp3.1\04.StringsAndObjects.runtimeconfig.dev.json
+D:\C-Sharp-Fundamentals-NBU\VariablesAndOperators\04.StringsAndObjects\bin\Debug\netcoreapp3.1\04.StringsAndObjects.dll
+D:\C-Sharp-Fundamentals-NBU\VariablesAndOperators\04.StringsAndObjects\bin\Debug\netcoreapp3.1\04.StringsAndObjects.pdb
+D:\C-Sharp-Fundamentals-NBU\VariablesAndOperators\04.StringsAndObjects\obj\Debug\netcoreapp3.1\04.StringsAndObjects.csprojAssemblyReference.cache
+D:\C-Sharp-Fundamentals-NBU\VariablesAndOperators\04.StringsAndObjects\obj\Debug\netcoreapp3.1\04.StringsAndObjects.csproj.CoreCompileInputs.cache
+D:\C-Sharp-Fundamentals-NBU\VariablesAndOperators\04.StringsAndObjects\obj\Debug\netcoreapp3.1\04.StringsAndObjects.AssemblyInfoInputs.cache
+D:\C-Sharp-Fundamentals-NBU\VariablesAndOperators\04.StringsAndObjects\obj\Debug\netcoreapp3.1\04.StringsAndObjects.AssemblyInfo.cs
+D:\C-Sharp-Fundamentals-NBU\VariablesAndOperators\04.StringsAndObjects\obj\Debug\netcoreapp3.1\04.StringsAndObjects.dll
+D:\C-Sharp-Fundamentals-NBU\VariablesAndOperators\04.StringsAndObjects\obj\Debug\netcoreapp3.1\04.StringsAndObjects.pdb
+D:\C-Sharp-Fundamentals-NBU\VariablesAndOperators\04.StringsAndObjects\obj\Debug\netcoreapp3.1\04.StringsAndObjects.genruntimeconfig.cache

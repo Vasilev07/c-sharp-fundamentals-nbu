@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C# Fundamentals NBU\\Arrays\\04.ArrayRotation\\04.ArrayRotation.csproj": {}
+    "D:\\C-Sharp-Fundamentals-NBU\\Arrays\\04.ArrayRotation\\04.ArrayRotation.csproj": {}
   },
   "projects": {
-    "D:\\C# Fundamentals NBU\\Arrays\\04.ArrayRotation\\04.ArrayRotation.csproj": {
+    "D:\\C-Sharp-Fundamentals-NBU\\Arrays\\04.ArrayRotation\\04.ArrayRotation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# Fundamentals NBU\\Arrays\\04.ArrayRotation\\04.ArrayRotation.csproj",
+        "projectUniqueName": "D:\\C-Sharp-Fundamentals-NBU\\Arrays\\04.ArrayRotation\\04.ArrayRotation.csproj",
         "projectName": "04.ArrayRotation",
-        "projectPath": "D:\\C# Fundamentals NBU\\Arrays\\04.ArrayRotation\\04.ArrayRotation.csproj",
+        "projectPath": "D:\\C-Sharp-Fundamentals-NBU\\Arrays\\04.ArrayRotation\\04.ArrayRotation.csproj",
         "packagesPath": "C:\\Users\\rog\\.nuget\\packages\\",
-        "outputPath": "D:\\C# Fundamentals NBU\\Arrays\\04.ArrayRotation\\obj\\",
+        "outputPath": "D:\\C-Sharp-Fundamentals-NBU\\Arrays\\04.ArrayRotation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rog\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

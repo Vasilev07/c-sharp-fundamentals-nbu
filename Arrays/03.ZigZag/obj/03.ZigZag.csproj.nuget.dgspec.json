@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C# Fundamentals NBU\\Arrays\\03.ZigZag\\03.ZigZag.csproj": {}
+    "D:\\C-Sharp-Fundamentals-NBU\\Arrays\\03.ZigZag\\03.ZigZag.csproj": {}
   },
   "projects": {
-    "D:\\C# Fundamentals NBU\\Arrays\\03.ZigZag\\03.ZigZag.csproj": {
+    "D:\\C-Sharp-Fundamentals-NBU\\Arrays\\03.ZigZag\\03.ZigZag.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# Fundamentals NBU\\Arrays\\03.ZigZag\\03.ZigZag.csproj",
+        "projectUniqueName": "D:\\C-Sharp-Fundamentals-NBU\\Arrays\\03.ZigZag\\03.ZigZag.csproj",
         "projectName": "03.ZigZag",
-        "projectPath": "D:\\C# Fundamentals NBU\\Arrays\\03.ZigZag\\03.ZigZag.csproj",
+        "projectPath": "D:\\C-Sharp-Fundamentals-NBU\\Arrays\\03.ZigZag\\03.ZigZag.csproj",
         "packagesPath": "C:\\Users\\rog\\.nuget\\packages\\",
-        "outputPath": "D:\\C# Fundamentals NBU\\Arrays\\03.ZigZag\\obj\\",
+        "outputPath": "D:\\C-Sharp-Fundamentals-NBU\\Arrays\\03.ZigZag\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rog\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
